@@ -1,1 +1,1 @@
-"This is new text file"
+//This is a new file added in Github repository
